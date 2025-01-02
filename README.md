@@ -16,3 +16,6 @@
    python api/index.py
    ```
 4. 访问 http://127.0.0.1:8080/?type={type}&category={category} ，`{type}` 为 `wishlist / progress / complete` ，`{category}` 为 `book / movie / tv / music / game / podcast`，可以获得 json 数据。
+
+## 来源
+- https://github.com/Lyunvy/neodb-shelf-api
